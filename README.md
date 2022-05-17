@@ -4,7 +4,7 @@
  ---
 <http://www.amazon.com>
  ---
-<http://www.designinganalogchips.com/>_count/designinganalogchips.pdf
+<http://www.designinganalogchips.com/_count/designinganalogchips.pdf>
  ---
 <http://www.designinganalogchips.com>
  ---
@@ -46,7 +46,8 @@
  ---
 <https://book.ethicalhackinghtb.xyz>
  ---
-<https://book.hacktricks.xyz>/ ---
+<https://book.hacktricks.xyz>
+ ---
 <https://books.goalkicker.com/PythonBook>
  ---
 <https://books.goalkicker.com>
@@ -355,7 +356,7 @@
  ---
 <https://en.wikipedia.org/wiki/Rain_of_animals>
  ---
-<https://en.wikipedia.org/wiki/The_Cuckoo>'s_Egg_(book)
+<https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)>
  ---
 <https://en.wikipedia.org>
  ---
@@ -931,7 +932,7 @@
  ---
 <https://open.umn.edu>
  ---
-<https://opensecuritytraining.info/Secure> Coding Vulnerability Exploitation.html
+<https://opensecuritytraining.info/Secure Coding Vulnerability Exploitation.html>
  ---
 <https://opensecuritytraining.info>
  ---
@@ -1299,7 +1300,7 @@
  ---
 <https://www.amazon.com/s?k=advanced+penetration+testing&crid=2DRNAJAV25FYO&sprefix=advanced+pene%2Caps%2C423&ref=nb_sb_ss_i_1_13>
  ---
-<https://www.amazon.com/s?k=sensor+networks&ref=nb_sb_noss_2>s
+<https://www.amazon.com/s?k=sensor+networks&ref=nb_sb_noss_2>
  ---
 <https://www.amazon.com/Security-Metrics-Replacing-Uncertainty-Doubt/dp/0321349989>
  ---
