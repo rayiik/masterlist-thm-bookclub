@@ -1772,3 +1772,4 @@
  ---
 <https://zer1t0.gitlab.io>
  ---
+<https://www.ubuntushop.be/kalirevealed.pdf>
