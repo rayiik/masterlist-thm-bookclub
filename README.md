@@ -1,7 +1,12 @@
 
  # Trry-Hack-Me Book Club List
- 
  ---
+ ---
+ <https://nostarch.com/howlinuxworks3>
+ ---
+ <https://nostarch.com/tlpi>
+ ---
+ <https://nostarch.com/tlcl2>
  ---
  <https://www.abebooks.com/9781499222036/Command-Line-Kung-Bash-Scripting-1499222033/plp>
 ---
