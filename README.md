@@ -3,7 +3,7 @@
  ---
  ---
  ---
-<ttps://www.amazon.co.uk/Hackers-Getting-Networking-Scripting-Security/dp/1593278551/ref=asc_df_1593278551/?tag=googshopuk-21&linkCode=df0&hvadid=310913487979&hvpos=&hvnetw=g&hvrand=13240011120339955993&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046153&hvtargid=pla-437083258996&psc=1&th=1&psc=1>
+ <https://www.amazon.co.uk/Hackers-Getting-Networking-Scripting-Security/dp/1593278551/ref=asc_df_1593278551/?tag=googshopuk-21&linkCode=df0&hvadid=310913487979&hvpos=&hvnetw=g&hvrand=13240011120339955993&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046153&hvtargid=pla-437083258996&psc=1&th=1&psc=1>
  ---
  <https://nostarch.com/howlinuxworks3>
  ---
