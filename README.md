@@ -1,4 +1,13 @@
 
+ # Trry-Hack-Me Book Club List
+ 
+ ---
+ ---
+ <https://www.abebooks.com/9781499222036/Command-Line-Kung-Bash-Scripting-1499222033/plp>
+---
+<https://www.amazon.ca/dp/1593278551/>
+ ---
+<https://www.packtpub.com/product/mastering-linux-shell-scripting/9781784396978>
  ---
 <http://www.amazon.com/First-Course-Database-Systems-3rd/dp/013600637X>
  ---
