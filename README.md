@@ -2,6 +2,7 @@
  # Trry-Hack-Me Book Club List
  ---
  ---
+ <https://yaksas.in/ycscblog/book-review-practical-threat-intelligence-and-data-driven-threat-hunting/
  ---
  <https://www.amazon.co.uk/Hackers-Getting-Networking-Scripting-Security/dp/1593278551/ref=asc_df_1593278551/?tag=googshopuk-21&linkCode=df0&hvadid=310913487979&hvpos=&hvnetw=g&hvrand=13240011120339955993&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046153&hvtargid=pla-437083258996&psc=1&th=1&psc=1>
  ---
@@ -73,7 +74,7 @@
  ---
 <https://c.tenor.com>
  ---
-<https://cdn.discordapp.com/attachments/679099130320125952/679116450333458451/20200218_000600.jpg>
+<https://cdn.discordapp.com/attachments/679099130320125952/679116450333458451/20200218.000600.jpg>
  ---
 <https://cdn.discordapp.com/attachments/679099130320125952/680777619201064963/unknown.png>
  ---
@@ -139,7 +140,7 @@
  ---
 <https://cdn.discordapp.com/attachments/679099130320125952/744607881998893166/image_fa12289d-3449-44db-b9b7-e28c00d7766320200816_192419.jpg>
  ---
-<https://cdn.discordapp.com/attachments/679099130320125952/745245431939989574/41u69Xl-WYL>._SX367_BO1204203200_.jpg
+<https://cdn.discordapp.com/attachments/679099130320125952/745245431939989574/41u69Xl-WYL._SX367_BO1204203200_.jpg>
  ---
 <https://cdn.discordapp.com/attachments/679099130320125952/745689800484323478/Python_for_Informatics.pdf>
  ---
